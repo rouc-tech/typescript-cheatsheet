@@ -210,4 +210,7 @@ Hello, World!
 
 # 参考
 
+*最小限のReactプロジェクトの作り方*
+
 [Creating a React App… From Scratch.](https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658)
+[↑の記事の完全なリポジトリ](https://github.com/paradoxinversion/creating-a-react-app-from-scratch)
