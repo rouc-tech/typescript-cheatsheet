@@ -1,0 +1,14 @@
+{
+  "name": "typescript-cheatsheet",
+  "version": "1.0.0",
+  "description": "TypeScriptの書き方集",
+  "main": "index.js",
+  "repository": "git@github.com:rouc-tech/typescript-cheatsheet.git",
+  "author": "rouc <72484465+rouc-tech@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "typescript": "4.0.5"
+  }
+}
