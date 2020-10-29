@@ -198,7 +198,7 @@ package.jsonに以下を追加
 yarn start
 ```
 
-http://localhost:3000にアクセスして
+http://localhost:3000 にアクセスして
 
 ```
 Hello, World!
